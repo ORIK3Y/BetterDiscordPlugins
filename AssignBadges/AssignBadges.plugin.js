@@ -1,5 +1,5 @@
 /**
- * @name AssignBadges
+ * @name OriBadges
  * @version 1.0.29
  * @description Allows you to locally assign badges to users through the user context menu.
  * @author QWERT
